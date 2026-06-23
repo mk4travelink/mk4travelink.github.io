@@ -3,7 +3,7 @@ layout: post
 title: "Stay Connected Anywhere: The Smart Traveler's Guide to Airalo eSIM"
 date: 2017-09-12 10:00:00 +0300
 description: "Discover how Airalo eSIM keeps you connected in over 200 countries. Affordable, instant, and hassle-free mobile data for every traveler."
-img: software.jpg
+img: airalo.png.png
 tags: [travel, connectivity, esim, airalo]
 ---
 
