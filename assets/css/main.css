@@ -1548,3 +1548,27 @@ figure img {
     max-height: 200px;
   }
 }
+/* === توحيد أبعاد الصور المصغرة في الصفحة الرئيسية === */
+.post .post-thumbnail {
+  width: 30%;
+  min-height: 200px;          /* ارتفاع ثابت لجميع الصور المصغرة */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+}
+
+/* تحسين المظهر على الأجهزة المتوسطة */
+@media only screen and (max-width: 992px) {
+  .post .post-thumbnail {
+    width: 100%;
+    min-height: 200px;        /* ارتفاع ثابت حتى في الشاشات الصغيرة */
+  }
+}
+
+/* تحسين المظهر على الهواتف */
+@media only screen and (max-width: 480px) {
+  .post .post-thumbnail {
+    min-height: 150px;        /* ارتفاع أقل قليلاً للشاشات الصغيرة جداً */
+  }
+}
