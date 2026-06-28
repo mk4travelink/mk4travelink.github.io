@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turn Travel Inspiration into Reality: The Complete Guide to GetYourGuide"
+title: "GetYourGuide: Tours & Experiences – Book 200,000+ Activities"
 date: 2026-06-25 10:00:00 +0300
 description: "Discover how GetYourGuide helps travelers find and book unforgettable experiences in over 18,000 cities worldwide—with AI-powered tools, skip-the-line tickets, and millions of trusted reviews."
 img: getyourguide.png.png
