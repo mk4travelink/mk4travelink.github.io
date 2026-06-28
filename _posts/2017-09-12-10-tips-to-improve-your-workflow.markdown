@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flight Delayed or Canceled? Get Up to €600 Compensation with AirHelp"
+title: "AirHelp: Flight Compensation – Claim Up to €600 for Delays"
 date: 2026-06-1 
 description: "Discover how AirHelp helps travelers claim flight compensation for delays, cancellations, and overbooking. No win, no fee. Up to €600 per passenger."
 img: airhelp.png.png
