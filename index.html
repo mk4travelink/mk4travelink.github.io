@@ -1,25 +1,41 @@
 ---
 layout: main
+title: "Home"
 ---
-{% for post in site.posts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+
+<div style="max-width: 900px; margin: 2rem auto; padding: 1rem; text-align: center;">
+  <h1 style="font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem;">Welcome to MK4TRAVELINK</h1>
+  <p style="font-size: 1.2rem; color: #555; margin-bottom: 2.5rem;">Your gateway to the best travel services and destinations.</p>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+
+    <!-- ====== CARD 1: Services ====== -->
+    <a href="{{ site.baseurl }}/services/" style="text-decoration: none; flex: 0 1 280px; min-width: 200px;">
+      <div style="background: #ffffff; border-radius: 16px; padding: 2rem 1.5rem; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1px solid #eaeef2; transition: transform 0.2s, box-shadow 0.2s; text-align: center;">
+        <div style="font-size: 4rem; margin-bottom: 1rem;">🛠️</div>
+        <h2 style="color: #2c3e50; margin: 0 0 0.5rem; font-size: 1.6rem;">Services</h2>
+        <p style="color: #777; margin: 0; font-size: 0.95rem;">Explore travel tools, booking platforms, and essential services for your trips.</p>
+        <div style="margin-top: 1.2rem; display: inline-block; background: #0065ff; color: #fff; padding: 0.4rem 1.8rem; border-radius: 30px; font-size: 0.9rem; font-weight: 600;">Browse →</div>
+      </div>
+    </a>
+
+    <!-- ====== CARD 2: Destinations ====== -->
+    <a href="{{ site.baseurl }}/destinations/" style="text-decoration: none; flex: 0 1 280px; min-width: 200px;">
+      <div style="background: #ffffff; border-radius: 16px; padding: 2rem 1.5rem; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1px solid #eaeef2; transition: transform 0.2s, box-shadow 0.2s; text-align: center;">
+        <div style="font-size: 4rem; margin-bottom: 1rem;">🌍</div>
+        <h2 style="color: #2c3e50; margin: 0 0 0.5rem; font-size: 1.6rem;">Destinations</h2>
+        <p style="color: #777; margin: 0; font-size: 0.95rem;">Discover travel guides, inspiration, and hidden gems from around the world.</p>
+        <div style="margin-top: 1.2rem; display: inline-block; background: #0065ff; color: #fff; padding: 0.4rem 1.8rem; border-radius: 30px; font-size: 0.9rem; font-weight: 600;">Explore →</div>
+      </div>
+    </a>
+
   </div>
-</article>
-{% endfor %}
+</div>
 
 <!-- ========== BREVO SUBSCRIPTION FORM (يظهر في أسفل الصفحة) ========== -->
 <div style="max-width: 700px; margin: 3rem auto; padding: 2rem; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eaeef2;">
-  <h3 style="color: #2c3e50; margin-bottom: 0.5rem;"></h3>
-  <p style="color: #555; margin-bottom: 1.5rem;"></p>
+  <h3 style="color: #2c3e50; margin-bottom: 0.5rem;">Subscribe to Newsletter</h3>
+  <p style="color: #555; margin-bottom: 1.5rem;">Get the latest offers and articles directly in your inbox.</p>
 
   <!-- START - Brevo Form Code -->
   <style>
