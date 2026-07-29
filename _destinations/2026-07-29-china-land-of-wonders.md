@@ -37,7 +37,9 @@ Buried for over 2,200 years, this silent legion of life-sized warriors stands gu
 
 ## 🌏 Ready to Explore?
 
-Whether you are a history buff, a nature lover, or a foodie seeking new culinary adventures, China has something extraordinary to offer you. **[Find the perfect tour for your dream itinerary here](https://your-affiliate-link-here.com) and start exploring.**
+Whether you are a history buff, a nature lover, or a foodie seeking new culinary adventures, China has something extraordinary to offer you. **[Find the perfect tour for your dream itinerary here]([https://your-affiliate-link-here.com](https://www.tourradar.com/srp/d-china?utm_source=partner-traveller-1415510&utm_medium=tourradar_web&utm_campaign=share_serp
+)<img width="941" height="22" alt="image" src="https://github.com/user-attachments/assets/6db05018-0d1d-476f-9c96-bf0b297b025b" />
+) and start exploring.**
 
 ## 📅 Best Time to Visit
 
