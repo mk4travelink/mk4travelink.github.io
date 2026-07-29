@@ -34,3 +34,7 @@ paginate:
 paginate_path: 
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+collections:
+  destinations:
+    output: true
+    permalink: /destinations/:path/
