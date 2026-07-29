@@ -3,7 +3,7 @@ layout: post
 title: "China"
 date: 2026-07-29 10:00:00 +0300
 description: ""
-img: china-banner.jpg
+img: china.png.jpg
 tags: [china, travel, asia, great-wall, forbidden-city, terracotta-army]
 ---
 
@@ -49,8 +49,8 @@ China is waiting to welcome you with open arms. Don't just read about these wond
 
 <!-- ========== BREVO SUBSCRIPTION FORM (يظهر في أسفل صفحة البوست) ========== -->
 <div style="max-width: 700px; margin: 3rem auto; padding: 2rem; background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); text-align: center; border: 1px solid #eaeef2;">
-  <h3 style="color: #2c3e50; margin-bottom: 0.5rem;">Subscribe to Newsletter</h3>
-  <p style="color: #555; margin-bottom: 1.5rem;">Get the latest offers and articles directly in your inbox.</p>
+  <h3 style="color: #2c3e50; margin-bottom: 0.5rem;"></h3>
+  <p style="color: #555; margin-bottom: 1.5rem;"></p>
 
   <!-- START - Brevo Form Code -->
   <style>
