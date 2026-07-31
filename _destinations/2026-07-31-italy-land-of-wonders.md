@@ -3,7 +3,7 @@ layout: post
 title: "Italy"
 date: 2026-07-31 10:00:00 +0300
 description: ""
-img: italy-banner.jpg
+img: italy.png.jpg
 tags: [italy, travel, europe, rome, venice, florence, colosseum]
 ---
 
