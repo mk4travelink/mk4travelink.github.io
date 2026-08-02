@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Expedia: All-in-One Travel – Flights, Hotels & Car Rentals"
-date: 2026-06-25 10:00:00 +0300
+date: 2026
 description: "Discover how Expedia simplifies travel planning with one-stop booking for flights, hotels, car rentals, and activities—plus AI-powered tools and exclusive rewards."
 img: expedia.png.png
 tags: [travel, flights, hotels, car-rental, expedia, travel-tech]
