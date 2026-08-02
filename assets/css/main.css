@@ -1590,3 +1590,19 @@ time,
 .header-page .page-date {
     display: none !important;
 }
+
+/* إخفاء جميع التواريخ في جميع أنحاء الموقع */
+.page-date,
+.post-date,
+.entry-date,
+.date,
+time,
+.header-page .page-date,
+.wrap-content .page-date,
+.page-header .page-date,
+.article-page .page-date,
+.post-header .page-date,
+.meta .date,
+.post-meta .date {
+    display: none !important;
+}
