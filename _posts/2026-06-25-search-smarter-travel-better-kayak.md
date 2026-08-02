@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAYAK: Travel Search – AI-Powered Flight & Hotel Finder"
-date: 2026-06-25 10:00:00 +0300
+date: 2026
 description: "Discover how KAYAK's AI-powered travel search engine helps you find the best flights, hotels, and rental cars—with real-time pricing, price predictions, and conversational trip planning."
 img: kayak.png.png
 tags: [travel, flights, hotels, car-rental, kayak, travel-tech, AI]
