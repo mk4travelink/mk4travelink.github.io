@@ -1579,3 +1579,14 @@ figure img {
 .page-date {
   display: none !important;
 }
+/* إخفاء كل التواريخ في جميع الصفحات */
+.page-date,
+.post-date,
+.date,
+time,
+.entry-date,
+.article-page .page-date,
+.wrap-content .page-date,
+.header-page .page-date {
+    display: none !important;
+}
