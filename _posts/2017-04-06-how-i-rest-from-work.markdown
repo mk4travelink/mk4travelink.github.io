@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiqets: Skip-the-Line Tickets – Explore Top Attractions Worldwide"
-date: 2026-06-21 10:00:00 +0300
+date: 2026
 categories: [travel, tips]
 tags: [travel, tickets, attractions, tiqets]
 img: tiqets.png.png
