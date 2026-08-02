@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tripadvisor: Travel Reviews – Plan with 1 Billion Real Opinions"
-date: 2026-06-25 10:00:00 +0300
+date: 2026
 description: "Discover how Tripadvisor's billion reviews, AI-powered trip planning, and Travelers' Choice awards help you find the best hotels, restaurants, and experiences worldwide."
 img: tripadvisor.png.png
 tags: [travel, reviews, hotels, restaurants, experiences, tripadvisor, AI]
