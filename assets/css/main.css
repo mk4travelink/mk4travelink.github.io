@@ -1575,3 +1575,7 @@ figure img {
     padding-top: 56.25%;
   }
 }
+/* إخفاء التواريخ من جميع الصفحات */
+.page-date {
+  display: none !important;
+}
