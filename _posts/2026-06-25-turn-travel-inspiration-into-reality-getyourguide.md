@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GetYourGuide: Tours & Experiences – Book 200,000+ Activities"
-date: 2026-06-25 10:00:00 +0300
+date: 2026
 description: "Discover how GetYourGuide helps travelers find and book unforgettable experiences in over 18,000 cities worldwide—with AI-powered tools, skip-the-line tickets, and millions of trusted reviews."
 img: getyourguide.png.png
 tags: [travel, tours, activities, experiences, getyourguide, travel-tech]
