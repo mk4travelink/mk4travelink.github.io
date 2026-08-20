@@ -1,0 +1,38 @@
+---
+layout: main
+title: "Asia"
+permalink: /asia/
+---
+
+<div style="max-width: 1200px; margin: 2rem auto; padding: 0 1rem;">
+
+  <h1 style="text-align: center; font-size: 2.2rem; color: #2c3e50; margin-bottom: 2rem;">🌏 Explore Asia</h1>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+
+    {% for post in site.asia %}
+    <div style="flex: 0 1 300px; min-width: 250px; background: #ffffff; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); border: 1px solid #eaeef2; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+      
+      {% if post.img %}
+        <a href="{{ post.url | prepend: site.baseurl }}" style="display: block; height: 180px; background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}'); background-size: cover; background-position: center;"></a>
+      {% else %}
+        <div style="height: 180px; background: #eef3f8; display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 0.9rem;">No Image</div>
+      {% endif %}
+
+      <div style="padding: 1.2rem 1.5rem 1.5rem;">
+        <h3 style="margin: 0 0 0.5rem; font-size: 1.1rem; line-height: 1.4;">
+          <a href="{{ post.url | prepend: site.baseurl }}" style="text-decoration: none; color: #2c3e50;">{{ post.title }}</a>
+        </h3>
+        <p style="color: #666; font-size: 0.9rem; margin: 0 0 0.8rem; line-height: 1.5;">
+          {{ post.content | strip_html | truncatewords: 20 }}
+        </p>
+        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; color: #999; border-top: 1px solid #eee; padding-top: 0.7rem;">
+          <span>{{ post.date | date: '%b %d, %Y' }}</span>
+        </div>
+      </div>
+
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
