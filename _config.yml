@@ -29,15 +29,18 @@ plugins:
   - jekyll-paginator
   - jemoji
 
+# paginate and paginate_path are commented out to avoid errors
 # paginate: 8
 # paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+# Collections
 collections:
   destinations:
     output: true
     permalink: /destinations/:path/
-europe:
+  europe:
     output: true
     permalink: /europe/:path/
   asia:
