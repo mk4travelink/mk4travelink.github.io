@@ -29,10 +29,6 @@ plugins:
   - jekyll-paginator
   - jemoji
 
-# paginate and paginate_path are commented out to avoid errors
-# paginate: 8
-# paginate_path: "/page/:num"
-
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 # Collections
@@ -46,6 +42,6 @@ collections:
   asia:
     output: true
     permalink: /asia/:path/
- africa:
+  africa:
     output: true
     permalink: /africa/:path/
