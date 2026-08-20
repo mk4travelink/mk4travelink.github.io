@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China"
-date: 2026 10:00:00 +0300
+date: 2026-07-29 10:00:00 +0300
 description: ""
 img: china.png.jpg
 tags: [china, travel, asia, great-wall, forbidden-city, terracotta-army]
