@@ -40,10 +40,6 @@ collections:
 europe:
     output: true
     permalink: /europe/:path/
-navigation:
-  - title: "Services"
-    url: "/"
-  - title: "Destinations"
-    url: "/destinations/"
-  - title: "Europe"
-    url: "/europe/"
+ asia:
+    output: true
+    permalink: /asia/:path/
