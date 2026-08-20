@@ -46,3 +46,6 @@ collections:
   asia:
     output: true
     permalink: /asia/:path/
+ africa:
+    output: true
+    permalink: /africa/:path/
