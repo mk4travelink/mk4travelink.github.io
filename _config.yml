@@ -37,3 +37,6 @@ collections:
   destinations:
     output: true
     permalink: /destinations/:path/
+europe:
+    output: true
+    permalink: /europe/:path/
