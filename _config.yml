@@ -40,4 +40,6 @@ collections:
 europe:
     output: true
     permalink: /europe/:path/
-
+  asia:
+    output: true
+    permalink: /asia/:path/
