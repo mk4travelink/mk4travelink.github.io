@@ -3,22 +3,6 @@
 {% include head.html %}
 <body>
 
-  <header style="background: #f8f9fa; padding: 1rem 0; border-bottom: 1px solid #eaeef2;">
-    <div style="max-width: 1200px; margin: 0 auto; padding: 0 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-      <!-- اسم الموقع -->
-      <a href="{{ site.baseurl }}/" style="font-size: 1.5rem; font-weight: bold; color: #2c3e50; text-decoration: none;">{{ site.title }}</a>
-      
-      <!-- القائمة العلوية -->
-      <nav>
-        <ul style="list-style: none; display: flex; gap: 1.5rem; margin: 0; padding: 0; flex-wrap: wrap;">
-          <li><a href="{{ site.baseurl }}/" style="text-decoration: none; color: #555; font-weight: 500;">Services</a></li>
-          <li><a href="{{ site.baseurl }}/destinations/" style="text-decoration: none; color: #555; font-weight: 500;">Destinations</a></li>
-          <li><a href="{{ site.baseurl }}/europe/" style="text-decoration: none; color: #555; font-weight: 500;">Europe</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-
   <div class="wrapper">
     {{ content }}
   </div>
