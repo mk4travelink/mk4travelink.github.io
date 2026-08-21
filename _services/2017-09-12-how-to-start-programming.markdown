@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Go City: Sightseeing Passes – Save Up to 50% on Attractions"
-date: 2026 
+date: 2026-08-1 10:00:00 +0300
 description: "Discover how Go City sightseeing passes can save you up to 50% on attractions in 28 destinations worldwide. Flexible, digital, and packed with value."
 img: gocity.png.png
 tags: [travel, sightseeing, city-breaks, gocity, attractions]
