@@ -31,8 +31,7 @@ plugins:
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-# Collections
-collections:
+# collections:
   europe:
     output: true
     permalink: /europe/:path/
@@ -45,3 +44,6 @@ collections:
   top-destinations:
     output: true
     permalink: /top-destinations/:path/
+  services:
+    output: true
+    permalink: /services/:path/
