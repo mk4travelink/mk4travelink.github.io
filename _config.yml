@@ -31,7 +31,8 @@ plugins:
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-# collections:
+# Collections
+collections:
   europe:
     output: true
     permalink: /europe/:path/
