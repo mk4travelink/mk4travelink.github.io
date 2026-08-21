@@ -3,7 +3,7 @@ layout: post
 title: "Aviasales: Cheap Flights – Compare 800+ Airlines Instantly"
 date: 2026-08-21
 description: "Discover how Aviasales helps you find the cheapest flights worldwide. Compare prices from over 800 airlines and book with confidence."
-img: aviasales.png.png
+img: aviaslaes.png.png
 tags: [travel, flights, cheap-flights, aviasales, flight-search]
 ---
 
