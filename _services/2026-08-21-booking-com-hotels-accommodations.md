@@ -3,7 +3,7 @@ layout: post
 title: "Booking.com: Hotels & Accommodations – Book Smarter, Travel Better"
 date: 2026-08-21
 description: "Discover how Booking.com helps you find the perfect stay with over 1.5 million properties, free cancellation, and exclusive Genius loyalty rewards."
-img: booking.jpg
+img: booking.png.jpg
 tags: [travel, hotels, accommodations, booking, travel-tech]
 ---
 
