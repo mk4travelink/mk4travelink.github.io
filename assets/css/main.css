@@ -1606,3 +1606,7 @@ time,
 .post-meta .date {
     display: none !important;
 }
+/* إخفاء قسم روابط التواصل الاجتماعي */
+.contact {
+    display: none !important;
+}
