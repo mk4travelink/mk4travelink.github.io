@@ -46,5 +46,5 @@ The best time to visit is during **spring (April–May)** and **autumn (Septembe
 China is waiting to welcome you with open arms. Don't just read about these wonders—experience them for yourself. **[Click here to browse tours and secure your spot on an unforgettable journey through the Middle Kingdom.](https://www.tourradar.com/srp/d-china?utm_source=partner-traveller-1415510&utm_medium=tourradar_web&utm_campaign=share_serp)**
 
 ---
-📥 **[Download the China Travel Guide (PDF)](/assets/pdfs/china-travel-guide.pdf.pdf)**
+📥 **[Download the China Travel Guide (PDF)](/assets/pdfs/china-travel-guide.pdf)**
 
