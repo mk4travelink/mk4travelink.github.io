@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Morocco – A Tapestry of Color, Culture, and Timeless Adventure"
+title: "Morocco"
 date: 2026-08-23
 description: "Discover the vibrant culture, ancient medinas, Sahara dunes, and blue-washed streets of Morocco. A journey through the heart of North Africa."
 img: morocco.png.jpg
