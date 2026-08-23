@@ -3,7 +3,7 @@ layout: post
 title: "South Africa"
 date: 2026-08-23
 description: "Discover the wild heart of South Africa—from Cape Town and Table Mountain to Kruger's Big Five and the scenic Garden Route."
-img: south-africa-banner.jpg
+img: south.africa.png.jpg
 tags: [south-africa, africa, travel, safari, cape-town, kruger, garden-route]
 ---
 
