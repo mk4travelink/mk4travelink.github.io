@@ -30,5 +30,5 @@ The best time to visit is during the dry season from **April to October**, with 
 Bali is calling with its timeless beauty, warm hospitality, and extraordinary spirit. Do not just dream about this legendary island—experience it for yourself. **[Click here to browse all available tours and secure your spot on the journey of a lifetime.](https://www.tourradar.com/srp/v-islands-bali?utm_source=partner-traveller-1415510&utm_medium=tourradar_web&utm_campaign=share_serp)**
 
 ---
-📥 **[Download the China Travel Guide (PDF)](/assets/pdfs/bali-travel-guide.pdf)**
+📥 **[Download the Bali Travel Guide (PDF)](/assets/pdfs/bali-travel-guide.pdf)**
 
