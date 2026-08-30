@@ -3,7 +3,7 @@ layout: post
 title: "Bali"
 date: 2026-08-23
 description: "Discover the Island of the Gods—Bali's sacred temples, emerald rice terraces, volcanic landscapes, and vibrant culture await."
-img: bali-banner.jpg
+img: bali.png.jpg
 tags: [bali, indonesia, travel, asia, ubud, temples, volcanoes]
 ---
 
