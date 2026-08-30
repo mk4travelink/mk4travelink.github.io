@@ -20,6 +20,7 @@ This guide is not just useful—it is shareable. Send it to friends who are also
 Start your Bali story today—and share the adventure with those you love.
 
 👉 **[Click here to download the full guide and begin your journey]({{ '/assets/pdfs/bali-travel-guide.pdf' | relative_url }})**
+
 👉 **[Book your Bali tour here]({{ Find the perfect tour](https://www.tourradar.com/srp/v-islands-bali?utm_source=partner-traveller-1415510&utm_medium=tourradar_web&utm_campaign=share_serp }})**
 ---
 
