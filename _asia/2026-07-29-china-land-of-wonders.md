@@ -3,7 +3,7 @@ layout: post
 title: "China"
 date: 2026-08-30
 description: "Discover the ancient wonders and futuristic cities of China—from the Great Wall and Terracotta Army to Shanghai's skyline and Zhangjiajie's floating mountains."
-img: china-banner.jpg
+img: china.png.jpg
 tags: [china, asia, travel, great-wall, forbidden-city, shanghai, zhangjiajie]
 ---
 
