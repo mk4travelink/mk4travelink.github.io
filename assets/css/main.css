@@ -1610,3 +1610,13 @@ time,
 .contact {
     display: none !important;
 }
+/* إجبار ظهور النصوص في الشريط الجانبي */
+.sidebar .contact ul li a {
+    font-size: 14px !important;
+    color: #333 !important;
+    display: inline-block !important;
+}
+
+.sidebar .contact ul li a i {
+    margin-right: 8px;
+}
