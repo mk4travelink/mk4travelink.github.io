@@ -1606,10 +1606,6 @@ time,
 .post-meta .date {
     display: none !important;
 }
-/* إخفاء قسم روابط التواصل الاجتماعي */
-.contact {
-    display: none !important;
-}
 /* إجبار ظهور النصوص في الشريط الجانبي */
 .sidebar .contact ul li a {
     font-size: 14px !important;
